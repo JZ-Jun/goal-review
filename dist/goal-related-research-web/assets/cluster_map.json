@@ -1,0 +1,243 @@
+[
+   {
+      "title":"what is the participant goal",
+      "clusters":[
+         "Manage use of tracking/ health devices",
+         "Manage hobbies, chores and routines",
+         "Manage smartphone/screen/digital use/time/ habits",
+         "Manage/ provide care/ support for well-being  ",
+         "Manage healthy lifestyle",
+         "Improve/ increase/ express/ practice creativity ",
+         "Manage online privacy",
+         "Manage diet/ nutrition",
+         "Manage mental well-being",
+         "Manage social or community relation and reintegration",
+         "Manage/recover from medical/ chronic condition",
+         "Manage the use of tracking devices/tracked data",
+         "Manage/ sustain environment",
+         "Manage learning experiences",
+         "Manage productivity",
+         "Manage sleep",
+         "Manage finances or financial skills ",
+         "Manage physical activity",
+         "Manage stress/anxiety/ depression",
+         "Manage menstruation or fertility"
+      ]
+   },
+   {
+      "title":"single vs multiple",
+      "clusters":[
+         "multiple goals",
+         "single goal"
+      ]
+   },
+   {
+      "title":"number of studies",
+      "clusters":[
+         "single study",
+         "multiple studies"
+      ]
+   },
+   {
+      "title":"specificity of this goal",
+      "clusters":[
+         "Abstract",
+         "Concrete"
+      ]
+   },
+   {
+      "title":"method",
+      "clusters":[
+         "Usability testing",
+         "Storytelling",
+         "user testing",
+         "Experiments",
+         "Interview",
+         "Role-playing",
+         "Prototyping",
+         "Focus groups",
+         "Surveys",
+         "Participatory design",
+         "item sorting",
+         "Think-out-loud",
+         "Mockups ",
+         "Experience Sampling Method",
+         "Autoethnography",
+         "Personas",
+         "Observations",
+         "Storyboards",
+         "Wizard of Oz",
+         "Design ethnography",
+         "Contextual inquiry",
+         "Sketch",
+         "Card sorting",
+         "Brainstorming",
+         "Co-design",
+         "Field study",
+         "Scenarios",
+         "Heuristic evaluation",
+         "Workshop",
+         "Diary studies",
+         "Asynchronous Remote Communities"
+      ]
+   },
+   {
+      "title":"contribution",
+      "clusters":[
+         "Artifact",
+         "Empirical",
+         "Theoretical",
+         "Survey",
+         "Dataset",
+         "Methodological"
+      ]
+   },
+   {
+      "title":"application domain",
+      "clusters":[
+         "Diagnosed Conditions",
+         "Finance",
+         "Digital well-being",
+         "Nutrition/ Diet",
+         "Privacy / Security",
+         "Crisis / Disaster",
+         "Fitness",
+         "Pets / Animals / ACI ",
+         "Creativity",
+         "Social interaction / Relationship",
+         "Work / Productivity",
+         "                                                                                                ",
+         "Policy / Politics / Legal Issues",
+         "Mental health",
+         "Sustainability",
+         "Education/ Learning",
+         "Games / Entertainment",
+         "Gender / Identity",
+         "Health / Wellness (Everyday wellness)",
+         "Technology Use",
+         "Shopping",
+         "Accessibility"
+      ]
+   },
+   {
+      "title":"technology",
+      "clusters":[
+         "Online Communities (e.g. Reddit, 7cups, PatientslikeMe)",
+         "Email / Texting / Communication",
+         "AI",
+         "Tables/Web Application",
+         "Tangible",
+         "Browser extension",
+         "Unspecific",
+         "Mobile Apps",
+         "Social Media (e.g Facebook, Tiktok, Instagram, Snapchat)",
+         "Website",
+         "Wearables/ Smart watches/ Wearable trackers",
+         "Platform/ Ecosystems (e.g. Silvercloud, Apple Healthkit)",
+         "Smart Environments / Connected Home / Ambient/ IoT"
+      ]
+   },
+   {
+      "title":"age",
+      "clusters":[
+         "Senior(over 60 years old)",
+         "Children(under 18 years old)",
+         "Unspecific",
+         "Disclose",
+         "Teenagers/Adolescent(10-19 years old)",
+         "Adult(18 years old - 60 years old)"
+      ]
+   },
+   {
+      "title":"occupation",
+      "clusters":[
+         "General population",
+         "Office workers/employees/Staffs",
+         "Another domain expert: Teachers, Wellness/Fitness coaches; Reserach assistants; professors",
+         "Students",
+         "Prison leavers/live experience participants",
+         "Health experts or practitioners"
+      ]
+   },
+   {
+      "title":"gender",
+      "clusters":[
+         "Man",
+         "Male",
+         "Female",
+         "Woman",
+         "Unspecific",
+         "Disclose",
+         "Girl",
+         "Boy",
+         "Others"
+      ]
+   },
+   {
+      "title":"duration of the deployment",
+      "clusters":[
+         "4 years",
+         "52 days",
+         "10 months",
+         "four-week autoethnography study ; interviews lasted 30 -45 mins.",
+         "2 weeks(9 workday)",
+         "2 month",
+         "8 weeks - field study",
+         "20 weeks",
+         "14 days",
+         "a month long",
+         "6 weeks - field study",
+         "132 days (approximately 19 weeks)",
+         "2 weeks",
+         "3 months",
+         "over two months",
+         "21 days",
+         "4 weeks",
+         "unspecified",
+         "one month",
+         "over 3 months",
+         "3 weeks - field study",
+         "8 weeks \n(To be conducted)",
+         "5 months",
+         "2 months",
+         "19 days",
+         "10 days",
+         "10 weeks",
+         "7 days",
+         "3 month",
+         "2 phase of study and each of them 1 week longer",
+         "over 7 weeks",
+         "1 month",
+         "3 week/ 21 days",
+         "1 week",
+         "12 days",
+         "5 weeks",
+         "5 to 10 days",
+         "3 week",
+         "3 Weeks",
+         "Not Specified",
+         "8 weeks",
+         "3 weeks",
+         "4 weeks - field study",
+         "9 days",
+         "4-weeks",
+         "Study was for 10 month \n\nBut, people used it as follows:\n- 62% quit within one week\n- 38% used for more than a week (Median = 11 days)",
+         "6 weeks",
+         "6 monthos",
+         "14 days step count",
+         "12 weeks",
+         "4 days",
+         "one week",
+         "28 days",
+         "6 long-term field deployments(20-47 weeks, mean 37.7 weeks) and conducted 3 rounds of traditional in-person interviews with each participant (34 interviews, 20 hours).",
+         "7 weeks"
+      ]
+   },
+   {
+      "title":"single vs multiple",
+      "clusters":[
+         "multiple goals",
+         "single goal"
+      ]
+   }
+]
