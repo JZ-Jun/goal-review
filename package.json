@@ -1,0 +1,42 @@
+{
+  "name": "pi-mapping",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^12.1.4",
+    "@angular/cdk": "^11.0.0",
+    "@angular/common": "^12.1.4",
+    "@angular/compiler": "^12.1.4",
+    "@angular/core": "^12.1.4",
+    "@angular/forms": "^12.1.4",
+    "@angular/material": "^11.0.0",
+    "@angular/platform-browser": "^12.1.4",
+    "@angular/platform-browser-dynamic": "^12.1.4",
+    "@angular/router": "^12.1.4",
+    "bibtex-parse-js": "0.0.24",
+    "hammerjs": "^2.0.8",
+    "rxjs": "~6.6.3",
+    "tslib": "^2.0.3",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^12.1.4",
+    "@angular/cli": "^12.1.4",
+    "@angular/compiler-cli": "~12.1.4",
+    "@angular/language-service": "~12.1.4",
+    "@types/node": "~14.14.7",
+    "codelyzer": "~6.0.1",
+    "protractor": "^7.0.0",
+    "ts-node": "~9.0.0",
+    "tslint": "~6.1.2",
+    "typescript": "~4.3.5"
+  }
+}

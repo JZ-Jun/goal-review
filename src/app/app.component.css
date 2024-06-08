@@ -1,0 +1,39 @@
+.nav-btn {
+  margin-top:10px;
+  margin-bottom:10px;
+  color: #333;
+  background-color: #E8E8E8;
+}
+
+.nav-btn:hover {
+  box-shadow: 0 1px 8px 0 rgba(0,0,0,0.7);
+}
+
+.nav-link {
+  width: 100%;
+  padding: 0px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.footer {
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;    
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#myBtn {
+  position: fixed; /* Fixed/sticky position */
+  border-radius: 5px;
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 50px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  background-color: #ebe8e8; /* Set a background color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 10px; /* Some padding */
+}

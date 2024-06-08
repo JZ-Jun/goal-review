@@ -1,0 +1,10 @@
+cite {
+	font-style: normal;
+	padding: 10px;
+	display:block;
+	font-family: monospace;
+}
+
+cite.title {
+	font-style: italic;
+}

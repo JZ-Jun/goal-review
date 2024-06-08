@@ -1,0 +1,2 @@
+ng build --configuration production
+ngh --dir dist/pi-mapping --cname=personal-informatics.depstein.net
