@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "goal-related-research-web": {
+    "goal-review": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/goal-related-research-web",
+            "outputPath": "dist/goal-review",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -62,18 +62,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "goal-related-research-web:build"
+            "browserTarget": "goal-review:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "goal-related-research-web:build:production"
+              "browserTarget": "goal-review:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "goal-related-research-web:build"
+            "browserTarget": "goal-review:build"
           }
         },
         "test": {
@@ -108,7 +108,7 @@
         }
       }
     },
-    "goal-related-research-web-e2e": {
+    "goal-review-e2e": {
       "root": "e2e/",
       "projectType": "application",
       "prefix": "",
@@ -117,11 +117,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "goal-related-research-web:serve"
+            "devServerTarget": "goal-review:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "goal-related-research-web:serve:production"
+              "devServerTarget": "goal-review:serve:production"
             }
           }
         },
@@ -137,7 +137,7 @@
       }
     }
   },
-  "defaultProject": "goal-related-research-web",
+  "defaultProject": "goal-review",
   "cli": {
     "analytics": false
   }
