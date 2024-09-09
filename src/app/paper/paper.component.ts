@@ -26,10 +26,10 @@ export class PaperComponent implements OnInit {
   ngOnInit() {
   	let paper = this.papers.getPaper(this.id);
     if(paper) {
-      this.author = paper.author;
-      if(this.author.endsWith('.')) {
-        this.author = this.author.slice(0, -1);
-      }
+   //   this.author = paper.author;
+   //   if(this.author.endsWith('.')) {
+   //     this.author = this.author.slice(0, -1);
+   //   }
       this.link = paper.link;
       this.title = paper.title;
       if(this.title.endsWith('.')) {
