@@ -1,0 +1,37 @@
+[
+  {
+    "title":"Goal Motivation",
+    "clusters":[
+      "No",
+      "Yes"
+    ]
+  },
+  {
+    "title":"method",
+    "clusters":[
+      "Questionnaires",
+      "Sketch",
+      "Co-design",
+      "Personas",
+      "Storytelling",
+      "Contextual inquiry",
+      "Observations",
+      "Diary studies",
+      "Workshop",
+      "Interview",
+      "Experiments",
+      "Mockups ",
+      "Ethnography",
+      "Surveys",
+      "Participatory design",
+      "Focus groups",
+      "Wizard of Oz",
+      "Role-playing",
+      "Scenarios",
+      "Card sorting",
+      "Prototyping",
+      "Brainstorming",
+      "Storyboards"
+    ]
+  }
+]
